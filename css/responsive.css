@@ -1,0 +1,152 @@
+/*!
+ * Template Name/Project Name: XYZ
+ * Developer Name: Mr ABC
+ * Conatct: abc@gmail.com
+ * Visit: https://abc.info
+ */
+ /*common class start*/
+ /*for custom fonts*/
+ @media(min-width:0px) and (max-width: 575px){
+  /*common code start*/
+  :root{
+    --hs-1:45px;
+   
+   }
+   .w-75{
+    width: 50%;
+   }
+   .w-25{
+    width: 50%;
+   }
+    /*common code start*/
+    /*header start*/
+    /*nav start*/
+  nav .navbar{
+    flex-direction: column;
+    align-items: end;
+    display: none;
+  }
+  /*nav end*/
+  /*banner start*/
+  .banner-area{
+    padding: 60px 0px;
+  }
+  .banner-area p{
+    line-height: 1.5;
+    letter-spacing: 0px;
+  }
+  .banner-area a{
+    padding:10px 25px;
+  }
+  /*banner end*/
+   /*header end*/
+
+ }
+ @media(min-width:576px) and (max-width: 767px){
+  /*common code start*/
+  :root{
+    --hs-1:45px;
+   
+   }
+   .w-75{
+    width: 50%;
+   }
+   .w-25{
+    width: 50%;
+   }
+    /*common code start*/
+    /*header start*/
+    /*nav start*/
+  nav .navbar{
+    flex-direction: column;
+    align-items: end;
+    display: none;
+  }
+  /*nav end*/
+  /*banner start*/
+  .banner-area{
+    padding: 60px 0px;
+  }
+  .banner-area p{
+    line-height: 1.5;
+    letter-spacing: 0px;
+  }
+  .banner-area a{
+    padding:10px 25px;
+  }
+  /*banner end*/
+   /*header end*/
+   
+ }
+ @media(min-width:0px) and (max-width: 575px){
+  /*common code start*/
+  :root{
+    --hs-1:45px;
+   
+   }
+   .w-75{
+    width: 50%;
+   }
+   .w-25{
+    width: 50%;
+   }
+    /*common code start*/
+    /*header start*/
+    /*nav start*/
+  nav .navbar{
+    flex-direction: column;
+    align-items: end;
+    display: none;
+  }
+  /*nav end*/
+  /*banner start*/
+  .banner-area{
+    padding: 60px 0px;
+  }
+  .banner-area p{
+    line-height: 1.5;
+    letter-spacing: 0px;
+  }
+  .banner-area a{
+    padding:10px 25px;
+  }
+  /*banner end*/
+   /*header end*/
+   
+ }
+ @media (min-width: 576px) and (max-width: 767px){
+  /* common code start  */
+  :root{
+      --hs-1: 55px;
+  }
+  .py-160{
+      padding: 60px 0px;
+  }
+  /* common code end */
+  
+  /* header start  */
+  nav .navbar{
+      flex-direction: column;
+      align-items: end;
+      display: none;
+  }
+  nav .w-25{
+      width: 50%;
+  }
+  nav .w-75{
+      width: 50%;
+  }
+  .banner-area p{
+      line-height: 1.5;
+  }
+  .banner-area a{
+      padding: 10px 25px;
+  }
+}
+  /* header end  */
+  
+
+
+
+
+
